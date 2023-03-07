@@ -1022,7 +1022,7 @@ a.product__text {
 .product__media-list .media > * {
   overflow: hidden;
 }
-
+/* THUMBNAIL ---------------------------------------------- */
 .thumbnail-list {
   flex-wrap: wrap;
   grid-gap: 1rem;
