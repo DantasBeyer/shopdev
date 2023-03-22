@@ -1126,7 +1126,7 @@ a.product__text {
 }
 
 .thumbnail {
-  position: absolute;
+position: absolute;
   top: 0;
   left: 0;
   display: block;
@@ -1473,3 +1473,4 @@ a.product__text {
     display: none;
   }
 }
+
