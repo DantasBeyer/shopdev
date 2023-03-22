@@ -1022,7 +1022,7 @@ a.product__text {
 .product__media-list .media > * {
   overflow: hidden;
 }
-/* THUMBNAIL ---------------------------------------------- */
+/* --------------------------------- THUMBNAIL ---------------------------------------------- */
 .thumbnail-list {
   flex-wrap: wrap;
   grid-gap: 1rem;
@@ -1126,7 +1126,7 @@ a.product__text {
 }
 
 .thumbnail {
-  position: absolute;
+position: absolute;
   top: 0;
   left: 0;
   display: block;
@@ -1143,7 +1143,7 @@ a.product__text {
 }
 
 .thumbnail.global-media-settings img {
-  border-radius: 0;
+  border: radius 0px;;
 }
 
 .thumbnail[aria-current] {
@@ -1473,3 +1473,4 @@ a.product__text {
     display: none;
   }
 }
+
